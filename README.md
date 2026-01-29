@@ -1,6 +1,6 @@
 ## sunny kuntal
 # 💫 About Me:
-👨‍💻 I'm currently working on  <br>Frontend & Full Stack Web Development projects using HTML, CSS, JavaScript.<br><br>🤝 I'm looking to collaborate on  <br>Beginner-friendly open source projects and real-world web applications.<br><br>🆘 I'm looking for help with  <br>JavaScript advanced concepts, backend integration, and project optimization.<br><br>🌱 I'm currently learning  <br>JavaScript, TypeScript, GitHub, Responsive Design, and Full Stack Development.<br><br>💬 Ask me about  <br>HTML, CSS, JavaScript, basic web projects, and frontend layouts.<br><br>⚡ Fun fact  <br>I love building websites late at night and learning new tech every day 🚀
+👨‍💻 I'm currently learning on  <br>Frontend & Full Stack Web Development projects using HTML, CSS, JavaScript.<br><br>🤝 I'm looking to collaborate on  <br>Beginner-friendly open source projects and real-world web applications.<br><br>🆘 I'm looking for help with  <br>JavaScript advanced concepts, backend integration, and project optimization.<br><br>🌱 I'm currently learning  <br>JavaScript, TypeScript, GitHub, Responsive Design, and Full Stack Development.<br><br>💬 Ask me about  <br>HTML, CSS, JavaScript, basic web projects, and frontend layouts.<br><br>⚡ Fun fact  <br>I love building websites late at night and learning new tech every day 🚀
 
 
 ## 🌐 Socials:
