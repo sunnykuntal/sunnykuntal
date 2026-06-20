@@ -1,33 +1,97 @@
-## sunny kuntal
-# 💫 About Me:
-👨‍💻 I'm currently learning on  <br>Frontend & Full Stack Web Development projects using HTML, CSS, JavaScript.<br><br>🤝 I'm looking to collaborate on  <br>Beginner-friendly open source projects and real-world web applications.<br><br>🆘 I'm looking for help with  <br>JavaScript advanced concepts, backend integration, and project optimization.<br><br>🌱 I'm currently learning  <br>JavaScript, TypeScript, GitHub, Responsive Design, and Full Stack Development.<br><br>💬 Ask me about  <br>HTML, CSS, JavaScript, basic web projects, and frontend layouts.<br><br>⚡ Fun fact  <br>I love building websites late at night and learning new tech every day 🚀
+<h1 align="center">Hi, I'm Sani 👋</h1>
+<h3 align="center">Full Stack Developer (Laravel) | QA & Testing Enthusiast</h3>
 
+<p align="center">
+  Final-year B.Sc Computer Science student building Laravel-based web applications
+  and strengthening release quality through systematic QA and API testing.
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sunnykuntal_43775) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunny_kuntal05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-kuntal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunnyphauzdar6@gmail.com) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sunnykuntal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sunnykuntal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykuntal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/SUNNY-KUNTAL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sunnyphauzdar6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sunnykuntal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**sunnykuntal/sunnykuntal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+- 🔭 Currently working as a **Full Stack Developer Intern** at **Cordialkare Technology Pvt Ltd**, building and testing HMS/ABDM modules
+- 💼 Hands-on experience across both **development** (Laravel, MySQL, Eloquent ORM) and **QA** (test case design, defect tracking, API validation)
+- 🌱 Currently sharpening my skills in **Agile workflows, API testing, and backend architecture**
+- 🎓 Final-year **B.Sc Computer Science** student at R.B.S. College, Mathura
+- 🤝 Open to collaborating on full-stack Laravel projects or QA/testing initiatives
+- 📫 Reach me at **sunnyphauzdar6@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**Tools & Core Skills**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile%2FSDLC-0052CC?style=flat-square&logo=jira&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| **Weather Forecast Application** | Real-time weather lookup tool integrating an external API asynchronously, with dynamic DOM rendering and a responsive layout |
+| **Student Registration System** | Registration form with input validation and real-time client-side feedback using JavaScript |
+| **Personal Portfolio Website** | Responsive personal portfolio built in HTML/CSS with structured navigation and accessible UI |
+| **CSS Phone Model UI Design** | Realistic smartphone mockup built using pure CSS gradients and shadows |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUNNYKUNTAL&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNNYKUNTAL&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNNYKUNTAL&layout=compact&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🎓 Education
+
+- **B.Sc Computer Science** — R.B.S. College Mathura *(2023 – 2026)*
+- **Senior Secondary (XII), CBSE — Science** — Heera Singh Public School *(2022)*
+
+---
+
+### 📜 Certifications
+
+- **PHP & Laravel (MVC, Routing, Middleware, Auth, MySQL, API Integration)** — Cordialkare Technology Pvt Ltd
+- **Full Stack Development — JavaScript, Git/GitHub, HTML & CSS** — Internshala Trainings
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to connect or check out my repositories.</i>
+</p>
